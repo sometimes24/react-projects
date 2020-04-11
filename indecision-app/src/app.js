@@ -1,3 +1,5 @@
+import Modal from "react-modal";
+
 console.log('app');
 
 import React from 'react';
